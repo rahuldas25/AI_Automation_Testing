@@ -1,4 +1,4 @@
-import { test1 } from './TestFixturesImpl.spec';
+//import { test1 } from './TestFixturesImpl.spec';
 import {test} from './WorkerFixtureImpl.spec';
 
 test('Test Fixture1', async ({ WorkFixture1 }) => {
